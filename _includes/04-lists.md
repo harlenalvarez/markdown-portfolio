@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Going to the beach.
+2. Playing with my dog.
+3. Creating Apps.
