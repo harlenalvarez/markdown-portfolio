@@ -1,4 +1,4 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills.
-**Javascript**
-*C#*
-**_HTML_**
+* __Javascript__
+* _C#_
+* __*HTML*__
